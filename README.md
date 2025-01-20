@@ -19,4 +19,4 @@ __Point cloud__ is an intermediate step in creating a 3D model. It’s a sparse 
 
 __Mesh__ After processing a point cloud in photogrammetry, the software typically creates a mesh, which connects the vertices of the point cloud to form a continuous surface (typically triangles), on which different textures could be projected giving the visible aspect to the object’s 3D model.
 
-![Project Image](Images\3D-Reconstruction-From-Hyper-Spectral-Images\Electromagnetic-Spectrum_accurate1.png)
+![Project Image](Images/3D-Reconstruction-From-Hyper-Spectral-Images/Electromagnetic-Spectrum_accurate1.png)
